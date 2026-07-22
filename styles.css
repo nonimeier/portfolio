@@ -274,7 +274,7 @@ p {
 
 .hero-polaroid {
   position: relative;
-  width: min(100%, 450px);
+  width: min(100%, 360px);
   aspect-ratio: 1.52 / 1;
   margin: 0;
   justify-self: end;
@@ -1771,7 +1771,7 @@ button.laptop-screen:focus-visible {
 
   .hero-polaroid {
     justify-self: start;
-    width: min(100%, 520px);
+    width: min(100%, 360px);
   }
 
   .case-grid {
